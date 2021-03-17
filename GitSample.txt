@@ -1,0 +1,2 @@
+class madan:
+	print("I am good man")
